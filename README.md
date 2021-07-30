@@ -1,33 +1,42 @@
-### Hi there 👋
+### Hi there, I'm Dilruba-  👋
 
-<!--
-**Dilruba-00/Dilruba-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-name: Waka Readme
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning CSS and JavaScript.
+- 🤔 I’m looking for help with how can I become an equipped Front End Developer.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact:  I love to draw and reading books.
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+<br/>
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+![](https://i.gifer.com/Bis6.gif)
+
+<img src="https://gifer.com/embed/Bis6" width=480 height=270.000  allowFullScreen></img> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilruba-00&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilruba-00&layout=lyout)](https://github.com/dilruba-00/github-readme-stats) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+### SKILLS
+
+### Programming Languages
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
+
+<br/>
+ 
+ ### Frontend Development
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+ 
+ <br/>
+ 
+### Connect with me:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+<a href="https://www.linkedin.com/in/dilruba-tun%C3%A7ez-869b24200/"> <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/> </a> <a href="https://www.tumblr.com/blog/yokdahadinolar"> <img src="https://img.icons8.com/ios-filled/30/000000/tumblr--v2.png"/> </a> <a href="https://tr.pinterest.com/muzlucilekkk/_saved/"> <img src="https://img.icons8.com/ios-glyphs/30/000000/pinterest.png"/> </a>
+
+
+
+ 
