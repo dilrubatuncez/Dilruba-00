@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-<a href="https://www.linkedin.com/in/dilruba-tun%C3%A7ez-869b24200/"> <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/> </a> <a href="https://www.tumblr.com/blog/yokdahadinolar"> <img src="https://img.icons8.com/ios-filled/30/000000/tumblr--v2.png"/> </a> <a href="https://tr.pinterest.com/muzlucilekkk/_saved/"> <img src="https://img.icons8.com/ios-glyphs/30/000000/pinterest.png"/> </a>
+<a href="https://www.linkedin.com/in/dilruba-tun%C3%A7ez-869b24200/" target="_blank"> <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/> </a> <a href="https://www.tumblr.com/blog/yokdahadinolar"> <img src="https://img.icons8.com/ios-filled/30/000000/tumblr--v2.png"/> </a> <a href="https://tr.pinterest.com/muzlucilekkk/_saved/"> <img src="https://img.icons8.com/ios-glyphs/30/000000/pinterest.png"/> </a>
 
 
 
