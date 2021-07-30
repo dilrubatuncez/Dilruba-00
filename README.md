@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-![](https://i.gifer.com/Bis6.gif)
-
-<img src="https://gifer.com/embed/Bis6" width=480 height=270.000  allowFullScreen></img> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilruba-00&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilruba-00&layout=lyout)](https://github.com/dilruba-00/github-readme-stats) 
