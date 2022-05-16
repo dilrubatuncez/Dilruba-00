@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - <img align="center" src="https://media3.giphy.com/media/kBT2VWBd5fnymKJwue/giphy.gif" width="35" height="35"/> I’m currently working on something cool<img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=790b7611e2ae3bc010807d1690c74dda919fe78beb61c541&rid=giphy.gif&ct=s" width="30" height="30"/>
-- <img align="center" src="https://media3.giphy.com/media/1ZDHv3943FIkvAKzMN/giphy.gif" width="35" height="35"/> I’m currently learning CSS and JavaScript.
+- <img align="center" src="https://media3.giphy.com/media/1ZDHv3943FIkvAKzMN/giphy.gif" width="35" height="35"/> I’m currently learning JavaScript.
 - <img align="center" src="https://media2.giphy.com/media/4VPk37jWgTcWzgBmfU/giphy.gif" width="35" height="35"/> I’m looking for help with how can I become an equipped Front End Developer.
 - <img align="center" src="https://media2.giphy.com/media/9MJgtmuaCBipcdAXeB/giphy.gif?cid=ecf05e47ujkb8813tvovasgt1viybyypv211l2h3cy03os9e&rid=giphy.gif&ct=s" width="35" height="35"/> Pronouns: She/her
 - <img align="center" src="https://media0.giphy.com/media/UwLSB44C7x1oX6wITz/giphy.gif" width="30" height="30"/> Fun fact:  I love to draw and reading books.
