@@ -36,8 +36,7 @@ Here are some ideas to get you started:
  ### <img align="center" src="https://media0.giphy.com/media/65qzUZckzeWG1wugLW/giphy.gif" width="50" height="50"/> Connect with me
 ---
  
-<a href="https://www.linkedin.com/in/dilruba-tun%C3%A7ez-869b24200/"> <img src="https://img.icons8.com/ios-filled/35/000000/linkedin.png" target="_blank" rel="noopener noreferrer"/> </a> <a href="https://www.tumblr.com/blog/yokdahadinolar"> <img src="https://img.icons8.com/ios-filled/35/000000/tumblr--v2.png"/> </a> <a href="https://tr.pinterest.com/muzlucilekkk/_saved/"> <img src="https://img.icons8.com/ios-glyphs/35/000000/pinterest.png"/> </a>
-
+<a href="https://www.linkedin.com/in/dilruba-tun%C3%A7ez-869b24200/"> <img src="https://img.icons8.com/ios-filled/35/000000/linkedin.png" target="_blank" rel="noopener noreferrer"/> </a> <a href="https://www.tumblr.com/blog/yokdahadinolar"> <img src="https://img.icons8.com/ios-filled/35/000000/tumblr--v2.png"/> 
 
 
  
